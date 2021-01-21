@@ -7,6 +7,9 @@ GDB 是一個常用來了解程式如何運作，以及 debugging 的工具，
 進而縮小 debug 的範圍
 
 
+[Basic GDB tutorial video on YouTube](https://www.youtube.com/watch?v=sCtY--xRUyI&ab_channel=loveuala)
+
+
 ### 開始使用 gdb
 
 有一個 test.c 檔案
